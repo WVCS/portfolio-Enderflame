@@ -1,0 +1,25 @@
+body {
+  background-color:#C0C5C0;
+}
+
+li a {display: block;
+color: #ADD9F4;
+text-align: center;
+padding: 14px 16px;
+text-decoration:none;
+font-family: Impact;
+}
+li{float:left;
+}
+li a:hover {
+  background-color:#CCFBFE;
+}
+ul {list-style:none;
+Margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:#46494C;
+  position: fixed;
+  width: 100%;
+  top: 0; 
+}
